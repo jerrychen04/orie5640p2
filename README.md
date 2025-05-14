@@ -1,0 +1,1 @@
+### ORIE 5640 Project 2: Comparing GARCH vs. Deep Learning methods for predicting minute level volatility
